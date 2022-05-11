@@ -1,0 +1,47 @@
+nav .nav-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+header {
+    background-color: rgba(123, 247, 142, 0.7);
+    width: 100%;
+    height: 50px;
+    margin-top: 0px;
+}
+
+nav ul li {
+    justify-self: flex-end;
+    margin: 10px;
+    background-color: rgba(5, 199, 47, 0.8);
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding-top: 300px;
+}
+
+.main-div {
+    display: flex;
+    position: relative;
+    padding-top: 40px;
+}
+
+#main-home {
+    width: 70%;
+}
+
+.pinguino {
+    max-width: 50%;
+    position: relative ;
+    left: 200px;
+}
+
+aside h5 {
+    padding-top: 100px;
+
+}
